@@ -1,4 +1,4 @@
-# ONE-PAGE-SCROLL
+# ONE PAGE SCROLL
 
 ### Demo
 
